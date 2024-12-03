@@ -1,0 +1,544 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Arch}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Accetti},
+         familyi={A\bibinitperiod},
+         given={Cecil},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Peilin},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{Performance evaluation;Microarchitecture;Instruction sets;Computer
+  architecture;Writing;Very large scale
+  integration;Multitasking;Instruction-set architecture;functional
+  programming;SoC design}
+    \strng{namehash}{ACLP1}
+    \strng{fullhash}{ACLP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{2022 IFIP/IEEE 30th International Conference On Very
+  Large Scale Integration (VLSI-SoC)}
+    \verb{doi}
+    \verb 10.1109/VLSI-SoC54400.2022.9939644
+    \endverb
+    \field{pages}{1\bibrangedash 2}
+    \field{title}{Architectural Support for Functional Programming}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Graph}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Accetti},
+         familyi={A\bibinitperiod},
+         given={Cecil},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=YR}{%
+         family={Ying},
+         familyi={Y\bibinitperiod},
+         given={Rendong},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Peilin},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{Pattern matching;Calculus;Benchmark testing;Semantics;Resource
+  management;Registers;Microprocessors;Applicative (functional)
+  programming;instruction set design;compilers}
+    \strng{namehash}{ACYRLP1}
+    \strng{fullhash}{ACYRLP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1109/LCA.2022.3198844
+    \endverb
+    \field{number}{2}
+    \field{pages}{73\bibrangedash 76}
+    \field{title}{Structured Combinators for Efficient Graph Reduction}
+    \field{volume}{21}
+    \field{journaltitle}{IEEE Computer Architecture Letters}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Barend}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BH}{%
+         family={Barendregt},
+         familyi={B\bibinitperiod},
+         given={Henk},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Science}%
+    }
+    \strng{namehash}{BH1}
+    \strng{fullhash}{BH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{Subtitle: Its Syntax and Semantics}
+    \field{title}{The Lambda Calculus}
+    \field{year}{1884}
+  \endentry
+
+  \entry{Bimbo}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BK}{%
+         family={Bimbò},
+         familyi={B\bibinitperiod},
+         given={Katalin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{BK1}
+    \strng{fullhash}{BK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Combinatory Logic}
+    \field{year}{2012}
+  \endentry
+
+  \entry{ClK}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BS}{%
+         family={Broda},
+         familyi={B\bibinitperiod},
+         given={Sabine},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Damas},
+         familyi={D\bibinitperiod},
+         given={Luis},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSDL1}
+    \strng{fullhash}{BSDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{(See also: Bracket abstraction in the combinator system Cl(K)
+  online)}
+    \field{title}{Compact Bracket abstraction in the combinator logic}
+    \field{journaltitle}{The Journal Of Symbolic Logic}
+    \field{month}{09}
+    \field{year}{1997}
+  \endentry
+
+  \entry{SKIM}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CTJW}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Thomas J.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Gladstone},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={MacLean},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NAC}{%
+         family={Norman},
+         familyi={N\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTJW+1}
+    \strng{fullhash}{CTJWGPMCNAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{LISP Conference}
+    \field{title}{SKIM - The S, K, I reduction machine}
+    \verb{url}
+    \verb https://api.semanticscholar.org/CorpusID:10189254
+    \endverb
+    \field{year}{1980}
+  \endentry
+
+  \entry{Hindley}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HR}{%
+         family={Hindley},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Mathematical Society}%
+    }
+    \strng{namehash}{HR1}
+    \strng{fullhash}{HR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issn}{00029947}
+    \field{pages}{29\bibrangedash 60}
+    \field{title}{The Principal Type-Scheme of an Object in Combinatory Logic}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1995158
+    \endverb
+    \field{volume}{146}
+    \field{journaltitle}{Transactions of the American Mathematical Society}
+    \field{year}{1969}
+    \field{urlday}{20}
+    \field{urlmonth}{10}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{Jansen2013}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=JJM}{%
+         family={Jannsen},
+         familyi={J\bibinitperiod},
+         given={Jan\bibnamedelima Martin},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{JJM1}
+    \strng{fullhash}{JJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{booktitle}{P.Achten and P. Koopman (Eds.): Plasmeijer Festschrift}
+    \field{pages}{168\bibrangedash 180}
+    \field{title}{{Programming in the $\lambda$-Calculus: From Church to Scott
+  and Back}}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Patterns}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=JJM}{%
+         family={Jansen},
+         familyi={J\bibinitperiod},
+         given={Jan\bibnamedelima Martin},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Koopman},
+         familyi={K\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Plasmeijer},
+         familyi={P\bibinitperiod},
+         given={Rinus},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JJMKPPR1}
+    \strng{fullhash}{JJMKPPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{booktitle}{Trends in Functional Programming}
+    \field{pages}{73\bibrangedash 90}
+    \field{title}{Efficient Interpretation by Transforming Data Types and
+  Patterns to Functions}
+    \field{month}{01}
+    \field{year}{2006}
+  \endentry
+
+  \entry{GMachine}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=KRB}{%
+         family={Kieburtz},
+         familyi={K\bibinitperiod},
+         given={Richard\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JJP}{%
+         family={Jouannaud},
+         familyi={J\bibinitperiod},
+         given={Jean-Pierre},
+         giveni={J\bibinithyphendelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{KRB1}
+    \strng{fullhash}{KRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{Functional Programming Languages and Computer
+  Architecture}
+    \field{isbn}{978-3-540-39677-2}
+    \field{pages}{400\bibrangedash 413}
+    \field{title}{The G-machine: A fast, graph-reduction evaluator}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{1985}
+  \endentry
+
+  \entry{ParComb}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Milner},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=DBT}{%
+         family={Denvir},
+         familyi={D\bibinitperiod},
+         given={B.\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=HWT}{%
+         family={Harwood},
+         familyi={H\bibinitperiod},
+         given={W.\bibnamedelima T.},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JMI}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={M.\bibnamedelima I.},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=WMJ}{%
+         family={Wray},
+         familyi={W\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{The Analysis of Concurrent Systems}
+    \field{isbn}{978-3-540-39731-1}
+    \field{pages}{121\bibrangedash 127}
+    \field{title}{Parallel combinator reduction machine}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{1985}
+  \endentry
+
+  \entry{Milner}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Milner},
+         familyi={M\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR2}
+    \strng{fullhash}{MR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb https://doi.org/10.1016/0022-0000(78)90014-4
+    \endverb
+    \field{issn}{0022-0000}
+    \field{number}{3}
+    \field{pages}{348\bibrangedash 375}
+    \field{title}{A theory of type polymorphism in \\ programming}
+    \field{volume}{17}
+    \field{journaltitle}{Journal of Computer and System Sciences}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Reduceron2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=NM}{%
+         family={Naylor},
+         familyi={N\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Runciman},
+         familyi={R\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{graph reduction,reconfigurable hardware}
+    \strng{namehash}{NMRC1}
+    \strng{fullhash}{NMRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{doi}
+    \verb 10.1145/1932681.1863556
+    \endverb
+    \field{issn}{0362-1340}
+    \field{number}{9}
+    \field{pages}{75\bibrangedash 86}
+    \field{title}{The reduceron reconfigured}
+    \verb{url}
+    \verb https://doi.org/10.1145/1932681.1863556
+    \endverb
+    \field{volume}{45}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{SIGPLAN Not.}
+    \field{month}{09}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Reduceron2008}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=NM}{%
+         family={Naylor},
+         familyi={N\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Runciman},
+         familyi={R\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=CO}{%
+         family={Chitil},
+         familyi={C\bibinitperiod},
+         given={Olaf},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=HZ}{%
+         family={Horváth},
+         familyi={H\bibinitperiod},
+         given={Zoltán},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=ZV}{%
+         family={Zsók},
+         familyi={Z\bibinitperiod},
+         given={Viktória},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{NMRC1}
+    \strng{fullhash}{NMRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{booktitle}{Implementation and Application of Functional Languages}
+    \field{isbn}{978-3-540-85373-2}
+    \field{pages}{129\bibrangedash 146}
+    \field{title}{The Reduceron: Widening the von Neumann Bottleneck for Graph
+  Reduction Using an FPGA}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{Smullyan}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Smullyan},
+         familyi={S\bibinitperiod},
+         given={Raymond},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Alfred A. Knopf}%
+    }
+    \keyw{book.math}
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{To Mock a Mockingbird}
+    \field{year}{1985}
+  \endentry
+\enddatalist
+\endinput
